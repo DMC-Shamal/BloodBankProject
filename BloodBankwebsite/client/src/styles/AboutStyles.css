@@ -1,0 +1,11 @@
+.about {
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
