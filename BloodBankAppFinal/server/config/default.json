@@ -1,0 +1,8 @@
+
+{
+    "PORT": 3000,
+    "SERVER": "localhost",
+    "DATABASE": "bloodbank",
+    "USER": "W2_80488_Harshal",
+    "PASSWORD": "12345"
+}
